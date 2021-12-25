@@ -1,4 +1,5 @@
 For the given JSON iterate over all for loops (for, for in, for of, forEach)
+
 var obj={
     name:"Alice",
     age:23
